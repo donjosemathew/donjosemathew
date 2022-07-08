@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-- 🎞️ Currently working in CiniTokens
+- 🎞️ Product Dev at CiniTokens
 - 🎉 Building @oronium
 - 🔭 Creating Products With Emotions
 - 🌱 I’m currently learning Web3
